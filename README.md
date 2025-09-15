@@ -18,7 +18,7 @@ Backend: Django 5.x
 
 Frontend: TailwindCSS + Custom CSS animations
 
-Database: SQLite (dev) / PostgreSQL (prod)
+Database: SQLite 
 
 Real-time: Django Channels & WebSockets
 
